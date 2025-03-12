@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'Azure CICD Pipeline Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="CICD adhoc schedule">7a2da72c4794621061ebbd59316d43ff</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>mike.van.den.berge</sys_created_by>
+        <sys_created_on>2025-03-12 13:38:51</sys_created_on>
+        <sys_id>722d6fac4794621061ebbd59316d4332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="cicdazure_tst" source="x_snc_cicdazure_ts">dfb2ebe03b5c22101680fec5e4e45a59</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cicdazure_tst">dfb2ebe03b5c22101680fec5e4e45a59</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_722d6fac4794621061ebbd59316d4332</sys_update_name>
+        <sys_updated_by>mike.van.den.berge</sys_updated_by>
+        <sys_updated_on>2025-03-12 13:38:51</sys_updated_on>
+        <test_suite display_value="Azure CICD Pipeline Test Suite">891763283b5c22101680fec5e4e45a21</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="cicdazure_tst">dfb2ebe03b5c22101680fec5e4e45a59</application>
+        <file_path/>
+        <instance_id>4c2bba9893d02694c4e8ddd548373cb6</instance_id>
+        <instance_name>cicdazure1</instance_name>
+        <name>sys_atf_schedule_run_722d6fac4794621061ebbd59316d4332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>any</browser_name><browser_version/><description>Run suite 'Azure CICD Pipeline Test Suite' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description><order>100</order><os_name>any</os_name><os_version/><schedule display_value="CICD adhoc schedule">7a2da72c4794621061ebbd59316d43ff</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>mike.van.den.berge</sys_created_by><sys_created_on>2025-03-12 13:38:51</sys_created_on><sys_id>722d6fac4794621061ebbd59316d4332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="cicdazure_tst" source="x_snc_cicdazure_ts">dfb2ebe03b5c22101680fec5e4e45a59</sys_package><sys_policy/><sys_scope display_value="cicdazure_tst">dfb2ebe03b5c22101680fec5e4e45a59</sys_scope><sys_update_name>sys_atf_schedule_run_722d6fac4794621061ebbd59316d4332</sys_update_name><sys_updated_by>mike.van.den.berge</sys_updated_by><sys_updated_on>2025-03-12 13:38:51</sys_updated_on><test_suite display_value="Azure CICD Pipeline Test Suite">891763283b5c22101680fec5e4e45a21</test_suite><watch_list/></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>1279656956</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>67b2ebe03b5c22101680fec5e4e45a5e</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>mike.van.den.berge</sys_created_by>
+        <sys_created_on>2025-03-12 13:38:51</sys_created_on>
+        <sys_id>b22d6fac4794621061ebbd59316d4337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1958a9454940000001</sys_recorded_at>
+        <sys_updated_by>mike.van.den.berge</sys_updated_by>
+        <sys_updated_on>2025-03-12 13:38:51</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>b62d6fac2c9462100b009283fc1b0336</update_guid>
+        <update_guid_history>b62d6fac2c9462100b009283fc1b0336:1279656956</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mike.van.den.berge</sys_created_by>
+        <sys_created_on>2025-03-12 14:57:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>0fc443a45c1d4a7c849da7ebdc5534a4</sys_id>
+        <sys_metadata>722d6fac4794621061ebbd59316d4332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="cicdazure_tst" source="x_snc_cicdazure_ts">dfb2ebe03b5c22101680fec5e4e45a59</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="cicdazure_tst">dfb2ebe03b5c22101680fec5e4e45a59</sys_scope>
+        <sys_scope_delete display_value="">40c52e7058f54dd08dcf94d37512b990</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_722d6fac4794621061ebbd59316d4332</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_722d6fac4794621061ebbd59316d4332">b22d6fac4794621061ebbd59316d4337</sys_update_version>
+        <sys_updated_by>mike.van.den.berge</sys_updated_by>
+        <sys_updated_on>2025-03-12 14:57:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
